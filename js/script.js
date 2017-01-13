@@ -1,5 +1,5 @@
 $( document ).ready(function() {
-    window.location.replace("https://fotosdapam.com.br/fotosdapam");
+    window.location.replace("http://fotosdapam.com.br/fotosdapam");
 });
 
 //<cursor blinking>
