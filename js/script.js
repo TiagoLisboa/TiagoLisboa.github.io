@@ -1,3 +1,7 @@
+$( document ).ready(function() {
+    window.location.replace("http:fotosdapam.com.br/fotosdapam");
+});
+
 //<cursor blinking>
 	var timer = setInterval("t()", 500);
 	function t(){
